@@ -1,0 +1,21 @@
+.head1{
+    font-weight: 900;
+    font-family: fantasy;
+    font-size: 100px;
+}
+
+.new{
+    width: 180px;
+    height: 80px;
+}
+.new:hover{
+    background-color:green;
+}
+.quo{
+    font-size: 25px;
+    font-weight: bold;
+}
+.aoth{
+    font-size: 25px;
+    font-weight: bold;
+}
